@@ -48,10 +48,11 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **SmartWash** | AI-enabled smart laundromat management system — IoT-based machine monitoring, occupancy tracking, and campus-scale deployment plan | Python · Firebase · Flutter · IoT |
-| **ETERNAL.NS EDA** | Exploratory data analysis on Zomato's NSE listing — price history, cleaning, and interactive candlestick visualizations | Python · yfinance · Plotly |
+| Project | Status | Description | Stack |
+|---|---|---|---|
+| [**SmartWash**](https://github.com/sanskar0805/SmartWash) | 🟡 Pre-build · Club lead-endorsed | AI-enabled IoT laundromat system for campus hostels — real-time machine monitoring, slot booking, demand prediction, anomaly detection | Python · ESP32 · Firebase · Flutter · MQTT |
+| [**AI Vulnerability Detection**](https://github.com/sanskar0805/ai-vulnerability-detection) | 📋 Proposal stage | AI + hardware-accelerated network security system for institutional LAN — penetration testing, ML-based IDS, FPGA encryption modules | Python · Kali Linux · TensorFlow · FPGA |
+| **ETERNAL.NS EDA** | ✅ Complete | Exploratory data analysis on Zomato's NSE listing — price history, cleaning, candlestick visualization | Python · yfinance · Plotly |
 
 ---
 
@@ -60,7 +61,7 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 - **Data Structures & Algorithms** — C, C++
 - **Introduction to Financial Analytics** — DCF, CAPM, WACC, VaR, EDA
 - **Optimization** — Newton's Method, Gradient Descent, Steepest Descent (Chong's text)
-- **Probability & Statistics** — Bayes' theorem, Random variables (PDF/CDF), Expectation & variance, Standard distributions (Bernoulli, Binomial, Geometric, Exponential, Gaussian), CLT, Law of Large Numbers, Markov & Chebyshev inequalities, KL divergence, Entropy, Curse of dimensionality · Regression and correlation
+- **Probability & Statistics** — Bayes' theorem, Random Variables (PDF/CDF), Expectation & Variance, Standard Distributions (Bernoulli, Binomial, Geometric, Exponential, Gaussian), Markov & Chebyshev Inequalities, Law of Large Numbers, Central Limit Theorem, Entropy & KL Divergence · *Statistics:* Regression, Correlation
 - **Linear Algebra** — Through SVD and Gram-Schmidt orthogonalization
 
 ---
@@ -70,6 +71,6 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 I'm actively looking to contribute to open-source finance and data projects, and to collaborate with people working seriously on quantitative or systems work.
 
 - 📫 Reach me via GitHub Issues or Discussions on any repo
-- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2029
+- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2028
 
 ---
