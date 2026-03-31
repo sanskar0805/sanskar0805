@@ -51,7 +51,7 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 | Project | Status | Description | Stack |
 |---|---|---|---|
 | [**SmartWash**](https://github.com/sanskar0805/SmartWash) | 🟡 Pre-build · Club lead-endorsed | AI-enabled IoT laundromat system for campus hostels — real-time machine monitoring, slot booking, demand prediction, anomaly detection | Python · ESP32 · Firebase · Flutter · MQTT |
-| [**AI Vulnerability Detection**](https://github.com/sanskar0805/ai-vulnerability-detection) | 📋 Proposal stage | AI + hardware-accelerated network security system for institutional LAN — penetration testing, ML-based IDS, FPGA encryption modules | Python · Kali Linux · TensorFlow · FPGA |
+| [**AI Vulnerability Detection**](https://github.com/sanskar0805/ai-vuln) | 📋 Proposal stage | AI + hardware-accelerated network security system for institutional LAN — penetration testing, ML-based IDS, FPGA encryption modules | Python · Kali Linux · TensorFlow · FPGA |
 | **ETERNAL.NS EDA** | ✅ Complete | Exploratory data analysis on Zomato's NSE listing — price history, cleaning, candlestick visualization | Python · yfinance · Plotly |
 
 ---
