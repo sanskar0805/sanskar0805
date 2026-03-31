@@ -60,6 +60,8 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 - **Data Structures & Algorithms** — C, C++
 - **Introduction to Financial Analytics** — DCF, CAPM, WACC, VaR, EDA
 - **Optimization** — Newton's Method, Gradient Descent, Steepest Descent (Chong's text)
+- **Probability & Statistics** — Bayes' theorem, Random variables (PDF/CDF), Expectation & variance, Standard distributions (Bernoulli, Binomial, Geometric, Exponential, Gaussian), CLT, Law of Large Numbers, Markov & Chebyshev inequalities, KL divergence, Entropy, Curse of dimensionality · Regression and correlation
+- **Linear Algebra** — Through SVD and Gram-Schmidt orthogonalization
 
 ---
 
@@ -68,7 +70,7 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 I'm actively looking to contribute to open-source finance and data projects, and to collaborate with people working seriously on quantitative or systems work.
 
 - 📫 Reach me via GitHub Issues or Discussions on any repo
-- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2029
+- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2028
 
 ---
 
