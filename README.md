@@ -71,6 +71,6 @@ Emphasis on procedural C for implementation and C++ OOP for design.
 I'm actively looking to contribute to open-source finance and data projects, and to collaborate with people working seriously on quantitative or systems work.
 
 - 📫 Reach me via GitHub Issues or Discussions on any repo
-- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2028
+- 🏫 IIIT Dharwad · B.Tech CSE · Batch of 2029
 
 ---
