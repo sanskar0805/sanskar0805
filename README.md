@@ -6,7 +6,7 @@ B.Tech CSE student at **IIIT Dharwad** · Building at the intersection of **mark
 
 ## 🔍 About Me
 
-I'm a first-year undergrad with a strong foundation in systems programming and a growing focus on **quantitative finance and financial analytics**. I care about writing clean code and understanding what numbers actually mean before turning them into features.
+I'm a second-year undergrad with a strong foundation in systems programming and a growing focus on **quantitative finance and financial analytics**. I care about writing clean code and understanding what numbers actually mean before turning them into features.
 
 Currently exploring financial markets through the lens of data — EDA, technical indicators, and eventually algorithmic strategy development.
 
