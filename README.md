@@ -31,8 +31,8 @@ Outside of coursework, I'm a member of **[AccelAIrate](https://github.com/AccelA
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar0805&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sanskar's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar0805&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sanskar0805&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sanskar's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanskar0805&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 ---
