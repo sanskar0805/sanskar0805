@@ -37,7 +37,11 @@ Also: [SmartWash](https://github.com/sanskar0805/SmartWash) (campus hostel laund
 
 ## Skills
 
-**Languages**![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+**Languages**![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 **Systems:** Linux (WSL) · POSIX processes and threads · sockets · Git
 **Data / Web:** pandas · FAISS · Streamlit · Next.js
 
